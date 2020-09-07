@@ -1,4 +1,5 @@
-### Hi there 👋
+<img src="https://github-readme-stats.vercel.app/api?username=LuckyMango&show_icons=true"  style="max-width:100%;">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuckyMango&layout=compact" style="max-width:100%;">
 
 <!--
 **LuckyMango/LuckyMango** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
