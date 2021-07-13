@@ -1,3 +1,10 @@
+## Hi there 👋
+
+<p align="center"> 
+  Visitor Count<br>
+  <img src="https://profile-counter.glitch.me/LuckyMango/count.svg" />
+</p>
+
 ### :zap: GitHub Stats
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=LuckyMango&show_icons=true&hide_border=true&show_owner=true&title_color=FFFF00&theme=dark&layout=compact" /><br>
